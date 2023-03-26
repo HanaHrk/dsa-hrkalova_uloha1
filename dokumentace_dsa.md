@@ -6,7 +6,7 @@ Hana Hrkalová
 ## Přeložení a spuštění programu
 Projekt PriorityComunication je napsán v jazyce Java.
 
-V adresáři *PriorityCommunication* se program spustí příkazem *vagrant up*
+V adresáři *dsa-hrkalova-uloha1* se program spustí příkazem *vagrant up*
 (Pokud by se projekt nespustil, je třeba ukončit příkaz a zavolat vagrant up znovu.)
 
 Poté se zobrazí kontejner *backend-1*, v apliakci docker. Po rozkliknutí konjteneru jsou vidět v záložce *logs* zprávy o volbě vedoucího uzlu a komunikaci mezi ostatními.
